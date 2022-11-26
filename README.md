@@ -12,16 +12,17 @@
 </div>
 
 
-##  2.2 Spark
+## Spark
 
 Folder spark contain the back end algorithm of the dataset prediction program.
 - After installing dependencies with : pip install ... or pip3 instal ...
 Run with python3 minimum :
 > python3 heart_failure_app.py
+or
 > python heart_failure_app.py
 
 
-##  2.3 Streamlit
+## Streamlit
 
 Folder Streamlit contain the front end architecture with data set prediction.
 - After installing dependencies with : pip install ... or pip3 instal ...
