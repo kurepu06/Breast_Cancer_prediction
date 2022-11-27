@@ -19,7 +19,9 @@ Folder spark contain the back end algorithm of the dataset prediction program.
 Run with python3
 - After installing dependencies with : pip install ... or pip3 install
 > python3 heart_failure_app.py
+<br />
 or
+<br />
 > python heart_failure_app.py
 
 
